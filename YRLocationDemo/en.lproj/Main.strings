@@ -1,0 +1,18 @@
+
+/* Class = "IBUITextField"; placeholder = "Input your username"; ObjectID = "3YA-pB-FeP"; */
+"3YA-pB-FeP.placeholder" = "Input your username";
+
+/* Class = "IBUITextField"; placeholder = "Input your password"; ObjectID = "EfX-ck-jcV"; */
+"EfX-ck-jcV.placeholder" = "Input your password";
+
+/* Class = "IBUIButton"; normalTitle = "Login"; ObjectID = "jX6-qU-lhv"; */
+"jX6-qU-lhv.normalTitle" = "Login";
+
+/* Class = "IBUILabel"; text = "Password"; ObjectID = "lP3-L8-Pnv"; */
+"lP3-L8-Pnv.text" = "Password";
+
+/* Class = "IBUILabel"; text = "test"; ObjectID = "pAz-PO-h5A"; */
+"pAz-PO-h5A.text" = "test";
+
+/* Class = "IBUILabel"; text = "UserName"; ObjectID = "vmq-zl-9nj"; */
+"vmq-zl-9nj.text" = "UserName";
